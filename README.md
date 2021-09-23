@@ -17,4 +17,18 @@ Day 2
 	3. Project
 		A. BMI Calculator
 		B. Tip Calculator
+
+Day 3
+
+	1. Conditional
+		A. if and else
+		B. Nested if and elif
+	2. Projects
+		A. BMI Calculator
+		B. Leap Year
+		C. Pizza Order
+		D. Roller Coaster
+	3. Logical Operator
+		A. Love Calculator
+	4. Treasure Game
 	    
