@@ -31,4 +31,14 @@ Day 3
 	3. Logical Operator
 		A. Love Calculator
 	4. Treasure Game
+
+Day 4
+
+	1. Random Number
+	2. Coin Toss
+	3. Lists
+		A. Excercise
+			i. Treasure Map
+			ii. Who's going to pay the bill
+		B. Project
 	    
