@@ -42,3 +42,14 @@ Day 4
 			ii. Who's going to pay the bill
 		B. Project
 	    
+Day 5 
+
+	Loop
+		1. Range Function
+			A. Sum of Even 1 - 100
+		2. Excercise
+			A. Average Height
+			B. FizzBuzz Game
+			C. Highest Score
+		3. Project
+			A. Random Password Generator
