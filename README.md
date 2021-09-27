@@ -53,3 +53,12 @@ Day 5
 			C. Highest Score
 		3. Project
 			A. Random Password Generator
+
+Day 6
+
+	1. Function
+	2. Hurdle Challenges
+		A. Hurdle1
+		B. Hurdle2
+		C. Hurdle3
+		D. Maze
